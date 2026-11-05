@@ -19,4 +19,4 @@ If you can comply with all that, we can work...
 
 Thank you / <em>pidamiya wo</em>.
 
-[Daisy Buckman](\pictures\daisy_buckman_1.jpg "Daisy Buckman")
+[Daisy Buckman](/pictures/daisy_buckman_1.jpg "Daisy Buckman")
