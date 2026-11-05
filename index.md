@@ -9,7 +9,7 @@ Before asking me for any statistical work please consider the following:
 2. Does it involve less than five individuals?  Below six individuals I cannot do much analysis since it is way too easy to identify individuals.
 3. Is there a deadline for the results?
 4. Are you aware that requests from the Department of Education, the American Indian Higher Education Consortium, the State Libraries of South Dakota, and Sisseton Wahpeton College have priority?
-5. If you wish to pay me for my work, I will need clearance from both [SWC]{https://www.swcollege.edu/newswcollege/} and [SWO]{https://swo-nsn.gov/}, and potentially non-native government entities.
+5. If you wish to pay me for my work, I will need clearance from both [SWC](https://www.swcollege.edu/newswcollege/) and [SWO](https://swo-nsn.gov/), and potentially non-native government entities.
 
 If you can comply with all that, we can work...
 - I will need your data (text files are okay, so are actual documents)
